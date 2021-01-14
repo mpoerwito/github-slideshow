@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-My TEXT
+**Some markdowned**
 Use the left arrow to go back!
+*after pull req
